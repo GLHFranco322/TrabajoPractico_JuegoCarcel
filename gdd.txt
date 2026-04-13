@@ -1,0 +1,47 @@
+Diseño de personaje:
+
+Mecánicas: Correr, Caminar, Agacharse, Tomar objeto, atacar
+
+Dinámicas:  
+
+
+
+
+
+
+
+Diseño enemigo abatible
+
+enemigos
+
+
+
+
+
+
+
+Diseño enemigo inmortal
+
+
+
+
+
+
+Diseño NPC
+
+
+
+
+
+
+Diseño Mapa
+
+
+
+
+
+
+Diseño objetos
+	Objeto de inventario
+	
+	Objeto inerte
